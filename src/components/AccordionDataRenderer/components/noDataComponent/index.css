@@ -1,0 +1,17 @@
+.no-data-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    flex-direction: column;
+}
+
+.header {
+    font-size: 2em;
+    color: #888;
+}
+
+.sub-header {
+    font-size: 1.5em;
+    color: #aaa;
+}
